@@ -1,0 +1,10 @@
+TOKEN=""
+SERVER="auto"
+HOST="127.0.0.1"
+PORT=""
+SESSION_STORAGE=None
+APP_ID=""
+APP_SECRET=""
+ENCODING_AES_KEY=""
+
+DATA_DIR="/yundisk/wx_dev/data/"
